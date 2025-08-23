@@ -1,5 +1,5 @@
 use clap::Parser;
-use log::{LevelFilter, error, info, warn};
+use log::{LevelFilter, info, warn};
 use rand::Rng;
 use std::fs;
 use std::io::{self, BufRead};
