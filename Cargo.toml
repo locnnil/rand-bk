@@ -2,6 +2,18 @@
 name = "rand-bk"
 version = "0.1.0"
 edition = "2024"
+authors = ["Lincoln Wallace locnnil0@gmail.com"]
+description = "A terminal emulator launcher that applies random background colors to be easy to distinguish between multiple terminal windows."
+readme = "README.md"
+homepage = "https://github.com/locnnil/rand-bk"
+repository = "https://github.com/locnnil/rand-bk"
+license = "MIT"
+keywords = ["terminal", "emulator", "colors", "alacritty", "randomizer"]
+categories = [
+  "command-line-utilities",
+  "development-tools",
+  "terminal-emulators",
+]
 
 [dependencies]
 clap = { version = "4.5.43", features = ["derive"] }
