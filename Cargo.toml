@@ -15,6 +15,10 @@ categories = [
   "terminal-emulators",
 ]
 
+[[bin]]
+name = "rand-bk"
+path = "src/main.rs"
+
 [dependencies]
 clap = { version = "4.5.43", features = ["derive"] }
 log = "0.4.27"
