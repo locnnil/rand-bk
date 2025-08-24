@@ -9,11 +9,7 @@ homepage = "https://github.com/locnnil/rand-bk"
 repository = "https://github.com/locnnil/rand-bk"
 license = "MIT"
 keywords = ["terminal", "emulator", "colors", "alacritty", "randomizer"]
-categories = [
-  "command-line-utilities",
-  "development-tools",
-  "terminal-emulators",
-]
+categories = ["command-line-utilities", "development-tools"]
 
 [[bin]]
 name = "rand-bk"
