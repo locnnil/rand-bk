@@ -15,3 +15,12 @@ By using a random background color, you can easily distinguish between different
 - Ghostty [⌛]
 - GNOME Terminal [⌛]
 
+
+## Installation
+
+This application is available via `cargo` and can be installed with the following command:
+
+```shell
+cargo install rand-bk
+```
+
