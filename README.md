@@ -24,3 +24,14 @@ This application is available via `cargo` and can be installed with the followin
 cargo install rand-bk
 ```
 
+## Post Installation
+
+It's kind of weird to launch a terminal from another terminal, so you need to set up a shell alias or function.
+A good way to do this on Gnome DE is to create a custom shortcut that calls `rand-bk`.
+
+- Create a custom shortcut in your system settings > keyboard > View and Customize Shortcuts > Custom Shortcuts.
+- Click on + icon and fill the form:
+  - Name: Rand Bk
+  - Command: rand-bk
+  - Shortcut: Choose your own shortcut (e.g., `Ctrl + Alt + a`)
+
