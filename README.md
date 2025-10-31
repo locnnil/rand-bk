@@ -14,7 +14,9 @@ By using a random background color, you can easily distinguish between different
 
 - Alacritty [✅]
 - Ghostty [⌛]
+- Kitty [⌛]
 - GNOME Terminal [⌛]
+
 
 ## Installation
 
